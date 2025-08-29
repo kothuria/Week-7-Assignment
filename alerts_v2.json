@@ -1,0 +1,6 @@
+{
+  "alert": "High error rate detected",
+  "error_rate": 7.5,
+  "total_runs": 200,
+  "avg_duration_ms": 1406.935
+}
